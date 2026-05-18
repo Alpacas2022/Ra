@@ -1,0 +1,8 @@
+{
+  "name": "镭.com",
+  "description": "一个关于镭元素的专业科普网站，涵盖镭的起源、原子信息、元素性质及化合物合成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
